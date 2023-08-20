@@ -1,5 +1,5 @@
 h1{
-    color:rgb(64, 27, 133) ;
+    color:rgb(190, 155, 255) ;
     text-align:center;
     font-weight: bold;
     font-size:38px;
@@ -10,7 +10,7 @@ h2{
     text-align: center;
     font-size: 30px;
     font-weight: bold;
-    font-style: italic;
+    
 }
 body{
     background-image: url("Green.jpeg");
@@ -56,8 +56,8 @@ input[type=text], input[type=number] {
 
 input[type=submit]{
     width: 40%;
-    color: rgb(246, 247, 238);
-    background-color: rgb(88, 6, 110);
+    color: rgb(255, 255, 255);
+    background-color: rgb(195, 52, 235);
 
    
     padding: 14px 20px;
